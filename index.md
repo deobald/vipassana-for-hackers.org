@@ -6,8 +6,12 @@
 If you would like to see the original LaTeX source (particularly if you would like to fix a bug in rendering), it is available at the GitHub link at the top of this page. Enjoy!
 
 <section>
-[![Download PDF](pdf.png)](https://github.com/deobald/vipassana-for-hackers/raw/master/vipassana-for-hackers.pdf)
-[![Download EPUB](epub.png)](https://github.com/deobald/vipassana-for-hackers/raw/master/vipassana-for-hackers.epub)
+  <a href="https://github.com/deobald/vipassana-for-hackers/raw/master/vipassana-for-hackers.pdf">
+    <img src="pdf.png" alt="Download PDF" />
+  </a>
+  <a href="https://github.com/deobald/vipassana-for-hackers/raw/master/vipassana-for-hackers.epub">
+    <img src="epub.png" alt="Download EPUB" />
+  </a>
 </section>
 
 (PDF and EPUB icons by [Alex Miles](https://dribbble.com/shots/1250286-PDF-ePub-vector-logos).)
