@@ -2,3 +2,7 @@ theme: jekyll-theme-hacker
 
 title: "Vipassana for Hackers"
 description: "Practical meditation for people who like to build and explore."
+show_downloads: "true"
+
+github:
+  repository_url: "https://github.com/deobald/vipassana-for-hackers"
