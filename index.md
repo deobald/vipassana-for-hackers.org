@@ -1,6 +1,3 @@
----
-layout: home
----
 
 # Welcome to Vipassana for Hackers!
 
