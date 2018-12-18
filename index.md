@@ -8,10 +8,11 @@ If you would like to see the original LaTeX source (particularly if you would li
 <br/>
 <br/>
 
-| Title         | Date          | Download PDF  | Download EPUB |
-| ------------- | ------------- | ------------- | ------------- |
-| Vipassana for Hackers | 2017 Nov | <a href="https://github.com/deobald/vipassana-for-hackers/raw/master/vipassana-for-hackers.pdf"><img src="pdf.png" alt="Download PDF" /></a> | <a href="https://github.com/deobald/vipassana-for-hackers/raw/master/vipassana-for-hackers.epub"><img src="epub.png" alt="Download EPUB" /></a> |
-| Why Bother Meditating? | 2018 Dec | TODO | TODO |
+| Title         | Date          | Version | Download PDF  | Download EPUB |
+| ------------- | ------------- | ------- | ------------- | ------------- |
+| Vipassana for Hackers | 2017 Nov | 1.6 | <a href="https://github.com/deobald/vipassana-for-hackers/raw/master/vipassana-for-hackers.pdf"><img src="pdf.png" alt="Download PDF" /></a> | <a href="https://github.com/deobald/vipassana-for-hackers/raw/master/vipassana-for-hackers.epub"><img src="epub.png" alt="Download EPUB" /></a> |
+| Vipassana for Hackers: Why Bother Meditating? | 2018 Dec | 0.1 | TODO | TODO |
+| Vipassana for Hackers: Practitioner's Guide | 2018 Dec | 0.1 | TODO | TODO |
 
 <br/>
 <br/>
