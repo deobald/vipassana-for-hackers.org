@@ -10,9 +10,10 @@ If you would like to see the original LaTeX source (particularly if you would li
 
 | Title         | Date          | Version | Download PDF  | Download EPUB |
 | ------------- | ------------- | ------- | ------------- | ------------- |
-| Vipassana for Hackers | 2017 Nov | 1.6 | <a href="https://github.com/deobald/vipassana-for-hackers/raw/master/vipassana-for-hackers.pdf"><img src="pdf.png" alt="Download PDF" /></a> | <a href="https://github.com/deobald/vipassana-for-hackers/raw/master/vipassana-for-hackers.epub"><img src="epub.png" alt="Download EPUB" /></a> |
-| Vipassana for Hackers: Why Bother Meditating? | 2018 Dec | 0.1 | TODO | TODO |
-| Vipassana for Hackers: Practitioner's Guide | 2018 Dec | 0.1 | TODO | TODO |
+| Vipassana for Hackers<br/>Paper One: Curious Mechanics | 2017 Nov | 1.6 | <a href="https://github.com/deobald/vipassana-for-hackers/releases/download/v1.6.0/paper-one.pdf"><img src="pdf.png" alt="Download PDF" /></a> | <a href="https://github.com/deobald/vipassana-for-hackers/releases/download/v1.6.0/paper-one.epub"><img src="epub.png" alt="Download EPUB" /></a> |
+| Vipassana for Hackers<br/>Paper Two: The Brain | 2019 Jun | 0.1 | TODO | TODO |
+| Vipassana for Hackers<br/>Paper Three: Why Meditate? | 2018 Dec | 0.1 | TODO | TODO |
+| Vipassana for Hackers<br/>Paper Four: Mastering Spacetime | 2018 Dec | 0.1 | TODO | TODO |
 
 <br/>
 <br/>
