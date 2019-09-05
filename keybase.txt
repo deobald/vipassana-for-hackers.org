@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/deobald
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vipassana-for-hackers.org
+  * I am deobald (https://keybase.io/deobald) on keybase.
+  * I have a public key ASBsTiUOU--H2PpXyqbbEUyYXTXHQb5LUA1mWU-QOhTu4Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206c4e250e53ef87d8fa57caa6db114c985d35c741be4b500d66594f903a14eee00a",
+      "host": "keybase.io",
+      "kid": "01206c4e250e53ef87d8fa57caa6db114c985d35c741be4b500d66594f903a14eee00a",
+      "uid": "4534a4be5aabe782e23462ec85163819",
+      "username": "deobald"
+    },
+    "merkle_root": {
+      "ctime": 1567649027,
+      "hash": "f383d0d530ece32eaf8e172077ac83bd421a05ffeedca9e72bc6eaa305740ab270426aa2f8cac5b37bd4a6afc220e1c67bcad1360b14e42f32e238e6725bf1ed",
+      "hash_meta": "ae7a3e055f3cccb591179e6fdad965ee5becf5c7db58f5fe966e590d1b20b6ec",
+      "seqno": 6174083
+    },
+    "service": {
+      "entropy": "LVW8849rnT9zQM6nEohuxTlU",
+      "hostname": "vipassana-for-hackers.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1567649039,
+  "expire_in": 504576000,
+  "prev": "0670dc0ff072eb78176a58e61ffaf1261b6fd516dbb4e97cb591c5e32210c00c",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbE4lDlPvh9j6V8qm2xFMmF01x0G+S1ANZllPkDoU7uAKp3BheWxvYWTESpcCOsQgBnDcD/By63gXaljmH/rxJhtv1RbbtOl8tZHF4yIQwAzEIFWcQ+DCtWgQUj1TTN0tXCUmkBJTW3APAVa9MvMvlOnHAgHCo3NpZ8RAcfQYSv8s6ScZgr+k1J3c3rDge3WSE3z4izyAO7V4NWpn6k8j7qCIoZrRkqXB3qv9Xu1F8XR3JcD3j2qvJy22D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBGzsLwMwu2ycyMZ1fa/cs60EB0MFT54SjVxSOAbtJXPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deobald
+
+==================================================================
