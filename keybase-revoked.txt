@@ -4,7 +4,7 @@ https://keybase.io/deobald
 
 I hereby claim:
 
-  * I am an admin of https://www.vipassana-for-hackers.org
+  * I am an admin of https://vipassana-for-hackers.org
   * I am deobald (https://keybase.io/deobald) on keybase.
   * I have a public key ASBsTiUOU--H2PpXyqbbEUyYXTXHQb5LUA1mWU-QOhTu4Ao
 
@@ -20,14 +20,14 @@ To do so, I am signing this object:
       "username": "deobald"
     },
     "merkle_root": {
-      "ctime": 1578833460,
-      "hash": "5a9e2b3e0c10368c921e723e77bf386c8c0c3d5ce355d17e169d66362c0e096d3fd1ea98c9fedf86f7948623e2a2daa405b8d84197c267eb64684cf1ee993a09",
-      "hash_meta": "72855f76a62eda05ba208fdb291fced14687a6f91e293183057c8d1d7111d64b",
-      "seqno": 14192693
+      "ctime": 1567649027,
+      "hash": "f383d0d530ece32eaf8e172077ac83bd421a05ffeedca9e72bc6eaa305740ab270426aa2f8cac5b37bd4a6afc220e1c67bcad1360b14e42f32e238e6725bf1ed",
+      "hash_meta": "ae7a3e055f3cccb591179e6fdad965ee5becf5c7db58f5fe966e590d1b20b6ec",
+      "seqno": 6174083
     },
     "service": {
-      "entropy": "COuxGwnQOsF3IP7UiqNQ1oIf",
-      "hostname": "www.vipassana-for-hackers.org",
+      "entropy": "LVW8849rnT9zQM6nEohuxTlU",
+      "hostname": "vipassana-for-hackers.org",
       "protocol": "https:"
     },
     "type": "web_service_binding",
@@ -35,18 +35,18 @@ To do so, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "5.1.1"
+    "version": "4.4.0"
   },
-  "ctime": 1578833470,
+  "ctime": 1567649039,
   "expire_in": 504576000,
-  "prev": "7322c151bbc3b4345c6fc89b8bac59e0672f21f60e8c5dc671e6b9077a575a36",
-  "seqno": 77,
+  "prev": "0670dc0ff072eb78176a58e61ffaf1261b6fd516dbb4e97cb591c5e32210c00c",
+  "seqno": 58,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbE4lDlPvh9j6V8qm2xFMmF01x0G+S1ANZllPkDoU7uAKp3BheWxvYWTESpcCTcQgcyLBUbvDtDRcb8ibi6xZ4GcvIfYOjF3Gcea5B3pXWjbEIHfC5OPGTsvdVtqvu7xvVv4J/Z/pfoKp9KPmjwIxn/6wAgHCo3NpZ8RAbgFeQvxCJT7R02bcAI/KwXlq+LbDPokcgzqpbLWhGvwoUVg9cN+3EursIaMw5/l33tQ24QXmIZzvYqgMsUIkDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGEr3vA8x7LfNWgqHGocAeFOsLvoHA/HX5jkDnG5zAbno3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbE4lDlPvh9j6V8qm2xFMmF01x0G+S1ANZllPkDoU7uAKp3BheWxvYWTESpcCOsQgBnDcD/By63gXaljmH/rxJhtv1RbbtOl8tZHF4yIQwAzEIFWcQ+DCtWgQUj1TTN0tXCUmkBJTW3APAVa9MvMvlOnHAgHCo3NpZ8RAcfQYSv8s6ScZgr+k1J3c3rDge3WSE3z4izyAO7V4NWpn6k8j7qCIoZrRkqXB3qv9Xu1F8XR3JcD3j2qvJy22D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBGzsLwMwu2ycyMZ1fa/cs60EB0MFT54SjVxSOAbtJXPo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -54,4 +54,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/deobald
 
 ==================================================================
-
