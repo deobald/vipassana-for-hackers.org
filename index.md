@@ -1,7 +1,9 @@
 
 # Welcome!
 
-"Vipassana for Hackers" is intended to provide a secular, scientifically-minded audience with practical meditation literature. This literature is organized into papers, published as printable PDF and e-reader-friendly EPUB. The first of these papers discusses the internal mechanics of Vipassana meditation. The second paper takes a purely biological perspective and discusses the effect of Vipassana on the brain.
+_Vipassana for Hackers_ is intended to provide a secular, scientifically-minded audience with practical meditation literature. This literature is organized into papers, published as printable PDF and e-reader-friendly EPUB. The first of these papers discusses the internal mechanics of Vipassana meditation. The second paper takes a purely biological perspective and discusses the effect of Vipassana on the brain.
+
+Future research for _Vipassana for Hackers_ comes from its sister endeavour, [_The Ātāpī Atari Project_](https://www.atapi.org/). All material produced for _Vipassana for Hackers_ is freely available under open licenses. _The Ātāpī Atari Project_ is financed by sponsorships and its quarterly whitepapers are only available to sponsors.
 
 <br/>
 <br/>
